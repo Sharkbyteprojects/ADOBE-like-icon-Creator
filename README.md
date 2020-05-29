@@ -1,4 +1,6 @@
 # ADOBE-like-icon-Creator
+![](https://img.shields.io/github/license/Sharkbyteprojects/ADOBE-like-icon-Creator)
+
 Create icons that seems like adobe apps
 
 ## MIRRORS
