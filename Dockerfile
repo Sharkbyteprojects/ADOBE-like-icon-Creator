@@ -1,6 +1,6 @@
 FROM alpine:3.7
 WORKDIR /usr/src/app
-RUN apk add nodejs npm
+RUN apk add nodejs
 COPY package*.json ./
 RUN npm install
 RUN addgroup noadmin
